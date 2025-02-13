@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "name": "Linux",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "/home/stan/study/emsdk/upstream/emscripten/system/include",
+        "/home/stan/study/emsdk/upstream/emscripten/cache/sysroot/include"
+      ],
+      "defines": ["__EMSCRIPTEN__"],
+      "compilerPath": "/home/stan/study/emsdk/upstream/emscripten/em++",
+      "cStandard": "c17",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "linux-clang-x64"
+    }
+  ],
+  "version": 4
+}

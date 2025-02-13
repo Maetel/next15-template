@@ -14,8 +14,7 @@
     "react-dom": "^19.0.0",
     "next": "15.1.7",
     "idb-keyval": "^6.2.1",
-    "jotai": "^2.11.3",
-    "three": "file:/home/stan/study/three.js"
+    "jotai": "^2.11.3"
   },
   "devDependencies": {
     "typescript": "^5",

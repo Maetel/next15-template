@@ -1,5 +1,5 @@
 function Index() {
-  return <div>Index</div>;
+  return <div className="font-extralight">Index</div>;
 }
 
 export default Index;
